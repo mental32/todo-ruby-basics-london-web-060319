@@ -15,7 +15,7 @@ def greeting(*_)
 end
 
 def return_a_value
-
+  nil
 end
 
 def last_evaluated_value
